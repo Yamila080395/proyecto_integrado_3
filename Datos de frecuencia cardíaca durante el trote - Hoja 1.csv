@@ -1,0 +1,38 @@
+Tiempo (min:seg),Tiempo (segundos),Frecuencia Cardíaca (lpm),Estado de Esfuerzo
+0:00,0,72,Reposo inicial
+0:05,5,85,Inicio de actividad
+0:10,10,98,Calentamiento
+0:15,15,112,Ritmo moderado
+0:20,20,126,Esfuerzo medio
+0:25,25,138,Intensidad aumentando
+0:30,30,145,Zona de cardio
+0:35,35,152,Alta intensidad
+0:40,40,158,Pico de esfuerzo
+0:45,45,155,Estabilización
+0:50,50,150,Manteniendo ritmo
+0:55,55,147,Recuperación inicial
+1:00,60,142,Ritmo estable
+1:05,65,138,Esfuerzo constante
+1:10,70,135,Estabilizando
+1:15,75,132,Controlando respiración
+1:20,80,128,Ritmo constante
+1:25,85,124,Manteniendo intensidad
+1:30,90,120,Medio esfuerzo
+1:35,95,118,Recuperación
+1:40,100,114,Bajando intensidad
+1:45,105,110,Transición
+1:50,110,106,Enfriamiento
+1:55,115,98,Reduciendo esfuerzo
+2:00,120,92,Casi terminando
+2:05,125,86,Última fase
+2:10,130,80,Finalizando
+2:15,135,76,Recuperación
+2:20,140,74,Post-ejercicio
+2:25,145,72,Casi en reposo
+2:30,150,71,Reposo
+2:35,155,71,Estabilizando
+2:40,160,70,Recuperación
+2:45,165,70,Casi recuperado
+2:50,170,70,Normalización
+2:55,175,70,Pre-reposo
+3:00,180,70,Reposo final
